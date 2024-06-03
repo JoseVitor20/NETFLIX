@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    },
+    "hide-files.files": [],
+    "html.hover.references": false,
+    "css.hover.references": false,
+    "less.hover.references": false,
+    "scss.hover.references": false,
+    "editor.hover.hidingDelay": 300,
+    "editor.hover.sticky": false
+}
